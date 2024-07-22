@@ -5,21 +5,34 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Deserted Tales Wiki',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/phaylali/deserted_tales_wiki',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Events',
+					autogenerate: { directory: 'events' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Characters',
+					autogenerate: { directory: 'characters' },
+				},
+				{
+					label: 'Groups',
+					autogenerate: { directory: 'groups' },
+				},
+				{
+					label: 'Locations',
+					autogenerate: { directory: 'locations' },
+				},
+				{
+					label: 'Guides',
+					autogenerate: { directory: 'guides' },
+				},
+				{
+					label: 'References',
+					autogenerate: { directory: 'references' },
 				},
 			],
 		}),
