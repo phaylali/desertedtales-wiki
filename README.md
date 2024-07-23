@@ -4,4 +4,4 @@
 
 ## 👀 Want to learn more?
 
-Check out [Deserted Tales Wiki](https://wiki.desertedtales.omniversify.com/), and if you want to participate or know more about the project; jump into the [Omniversify Discord Server](https://discord.gg/HtXbB8nDrj).
+Check out [Deserted Tales Wiki](https://desertedtales.omniversify.com/), and if you want to participate or know more about the project; jump into the [Omniversify Discord Server](https://discord.gg/HtXbB8nDrj).

@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'Deserted Tales Wiki',
 			social: {
-				github: 'https://github.com/phaylali/deserted_tales_wiki',
+				github: 'https://github.com/phaylali/desertedtales-wiki',
 			},
 			sidebar: [
 				{
