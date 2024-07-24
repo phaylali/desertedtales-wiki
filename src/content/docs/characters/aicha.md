@@ -3,11 +3,9 @@ title: Aicha Bent Si Abdelkader
 description: A moroccan legendary resistance fighter
 ---
 
-### Character Sheet for Aicha Bent Abdelkader
-
-**Name**: Aicha 
+**Name**: Aicha Bent Abdelkader
 **Gender**: Female  
-**Birthday**: Monday, December 19, 1521  
+**Birthday**: Monday, 19 December, 1521  
 **Occupation**: Warrior and Resistance Leader  
 **Father**: Sidi Abdelkader ibn Youssef  
 **Mother**: Lalla Zahra bint Mohammed  
