@@ -7,7 +7,7 @@ description: A moroccan craftsman
 **Gender**: Male  
 **Birthday**: Thursday, 15 April, 1515  
 **Occupation**: Craftsman and Artisan  
-**Father**: Sidi Abdelkader ibn Youssef  
+**Father**: Si Abdelkader ibn Youssef  
 **Mother**: Lalla Zahra bint Mohammed  
 **Siblings**: 
   - Elder Brother: Mohammed ibn Abdelkader (Born: January 3, 1512)

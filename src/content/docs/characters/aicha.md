@@ -3,18 +3,18 @@ title: Aicha Bent Si Abdelkader
 description: A moroccan legendary resistance fighter
 ---
 
-**Name**: Aicha Bent Abdelkader
+**Name**: Aicha Bent Abdelkader              
 **Gender**: Female  
 **Birthday**: Monday, 19 December, 1521  
 **Occupation**: Warrior and Resistance Leader  
-**Father**: Sidi Abdelkader ibn Youssef  
+**Father**: Si Abdelkader ibn Youssef  
 **Mother**: Lalla Zahra bint Mohammed  
 **Siblings**: 
   - Elder Brother: Mohammed ibn Abdelkader (Born: January 3, 1512)
   - Elder Brother: Youssef ibn Abdelkader (Born: April 15, 1515)
   - Elder Sister: Fatima bint Abdelkader (Born: September 23, 1518)
 
-**Romantic Interest**: A nobleman and fellow resistance fighter (name to be determined)  
+**Romantic Interest**: A nobleman and fellow resistance fighter (Idir Ben Ziri)  
 **Residence**: Mazagan (modern-day El Jadida), Morocco  
 
 **Physical Attributes**:  

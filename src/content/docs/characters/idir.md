@@ -1,5 +1,5 @@
 ---
-title: Hassan Ben Si Abdelkader
+title: Idir Ben Ziri
 description: A moroccan legendary resistance fighter
 ---
 

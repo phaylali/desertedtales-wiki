@@ -24,7 +24,7 @@ The oppressive measures sparked a major rebellion in the Albaicín district in D
 Following the rebellion, the Spanish authorities abandoned the conciliatory policies of the Treaty of Granada. In 1502, the Catholic Monarchs issued an edict requiring all Muslims in the Kingdom of Castile to convert to Christianity or leave the country. This marked the beginning of the end for Granada’s Muslim population. Those who converted, known as Moriscos, often faced suspicion and persecution. Many were forced to abandon their customs, language, and dress.
 
 #### The Exodus of Muslims
-For those who refused to convert, exile was the only option. Thousands of Muslims left Granada, embarking on perilous journeys to North Africa and the Ottoman Empire. Families were torn apart, and entire communities uprooted. Among those who fled was Sidi Abdelkader ibn Youssef, a nobleman determined to preserve his faith and heritage.
+For those who refused to convert, exile was the only option. Thousands of Muslims left Granada, embarking on perilous journeys to North Africa and the Ottoman Empire. Families were torn apart, and entire communities uprooted. Among those who fled was Si Abdelkader ibn Youssef, a nobleman determined to preserve his faith and heritage.
 
 The journey of these exiles was fraught with danger. Many traveled by sea, braving storms and hostile patrols, while others traversed the rugged terrain of southern Spain. The ports of Almería, Málaga, and Almuñécar became crucial escape points for those seeking refuge across the Mediterranean.
 
