@@ -1,8 +1,11 @@
 ---
 title: Amina Bent Mohamed
 description: a merchant from the Kongo Kingdom
+type: character
+genre: female
+image: ../../images/image3.png
 ---
-
+![[image3.png]]
 3. **Daughter**: **Amina Ait Mohamed**
    - **Birthday**: December 15, 1542
    - **Physical Attributes**:

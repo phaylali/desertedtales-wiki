@@ -1,8 +1,11 @@
 ---
 title: Meryem Bent Si Abdelkader
 description: A moroccan legendary resistance fighter
+type: character
+genre: female
+image: ../../images/image11.png
 ---
-
+![[image11.png]]
 **Name**: Meryem bint Abdelkader  
 **Gender**: Female  
 **Birthday**: September 23, 1518  

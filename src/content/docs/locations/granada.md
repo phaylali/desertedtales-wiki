@@ -1,6 +1,7 @@
 ---
 title: Granada
 description: Location
+type: location
 ---
 
 #### The Last Stronghold of Al-Andalus

@@ -1,6 +1,7 @@
 ---
 title: Mazagan
 description: Location
+type: location
 ---
 
 COMING SOON

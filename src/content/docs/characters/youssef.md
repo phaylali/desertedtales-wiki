@@ -1,8 +1,11 @@
 ---
 title: Youssef Ben Si Abdelkader
 description: A moroccan craftsman
+type: character
+genre: male
+image: ../../images/image6.png
 ---
-
+![[image6.png]]
 **Name**: Youssef Ben Abdelkader  
 **Gender**: Male  
 **Birthday**: Thursday, 15 April, 1515  

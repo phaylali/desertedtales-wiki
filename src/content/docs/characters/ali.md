@@ -1,9 +1,12 @@
 ---
 title: Ali Ben Mohamed
 description: a merchant from the Kongo Kingdom
+type: character
+genre: male
+image: ../../images/image5.png
 ---
-
-2. **Son**: **Ali Ait Mohamed**
+![[image5.png]]
+**Name**: **Ali Ait Mohamed**
    - **Birthday**: June 2, 1540
    - **Physical Attributes**:
      - **Height**: 120 cm

@@ -1,6 +1,7 @@
 ---
 title: Alhambra
 description: Location
+type: location
 ---
 
 ### The Alhambra: A Jewel of Moorish Spain (1492-1502)

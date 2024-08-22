@@ -1,8 +1,11 @@
 ---
 title: Mohamed Ben Si Abdelkader
 description: A moroccan legendary resistance fighter
+type: character
+genre: male
+image: ../../images/image7.png
 ---
-
+![[image7.png]]
 **Name**: Mohammed ibn Abdelkader  
 **Gender**: Male  
 **Birthday**: January 3, 1512  

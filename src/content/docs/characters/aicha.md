@@ -1,8 +1,11 @@
 ---
 title: Aicha Bent Si Abdelkader
 description: A moroccan legendary resistance fighter
+type: character
+genre: female
+image: ../../images/image.png
 ---
-
+![[image.png]]
 **Name**: Aicha Bent Abdelkader              
 **Gender**: Female  
 **Birthday**: Monday, 19 December, 1521  

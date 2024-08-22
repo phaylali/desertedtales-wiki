@@ -1,6 +1,7 @@
 ---
 title: Almeria
 description: Location
+type: location
 ---
 
 COMING SOON

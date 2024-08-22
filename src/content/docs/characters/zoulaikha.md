@@ -1,8 +1,11 @@
 ---
 title: Zoulaikha Bent Mohamed
 description: a merchant from the Kongo Kingdom
+type: character
+genre: female
+image: ../../images/image4.png
 ---
-
+![[image4.png]]
 1. **Daughter**: **Zoulaikha Ait Mohamed**
    - **Birthday**: August 5, 1538
    - **Physical Attributes**:

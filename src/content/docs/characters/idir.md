@@ -1,8 +1,11 @@
 ---
 title: Idir Ben Ziri
 description: A moroccan legendary resistance fighter
+type: character
+genre: male
+image: ../../images/image10.png
 ---
-
+![[image10.png]]
 **Name**: Idir Ait Ziri  
 **Gender**: Male  
 **Birthday**: March 5, 1519  
