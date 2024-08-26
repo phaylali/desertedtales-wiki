@@ -5,7 +5,7 @@ type: character
 genre: female
 image: ../../images/image4.png
 ---
-![[image4.png]]
+![Zoulaikha Bent Mohamed](../../images/image4.png)
 1. **Daughter**: **Zoulaikha Ait Mohamed**
    - **Birthday**: August 5, 1538
    - **Physical Attributes**:

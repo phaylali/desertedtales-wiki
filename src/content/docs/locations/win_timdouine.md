@@ -2,6 +2,7 @@
 title: Win Timdouine
 description: Cave
 type: location
+image:
 ---
 
 ### The Cave of Win Timdouine: A Hidden Sanctuary

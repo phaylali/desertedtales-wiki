@@ -2,6 +2,7 @@
 title: New Beginning
 description: A new start for a brilliant man
 type: event
+image: 
 ---
 
 #### Fall from Grace

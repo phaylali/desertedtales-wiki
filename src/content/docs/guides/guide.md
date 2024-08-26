@@ -1,6 +1,8 @@
 ---
 title: Guide
 description: A guide
+type: guide
+image: 
 ---
 
 COMING SOON

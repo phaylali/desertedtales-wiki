@@ -1,11 +1,11 @@
 ---
-title: Amani Binti Elikia
+title: Amani Bint Elikia
 description: a merchant from the Kongo Kingdom
 type: character
 genre: female
 image: ../../images/image2.png
 ---
-![[image2.png]]
+![Amani Bint Elikia](../../images/image2.png)
 **Name**: Amani Binti Elikia  
 **Birthday**: May 14, 1516   
 **Place of Birth**: Kongo Kingdom    

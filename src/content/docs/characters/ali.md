@@ -5,7 +5,7 @@ type: character
 genre: male
 image: ../../images/image5.png
 ---
-![[image5.png]]
+![Ali Ben Mohamed](../../images/image5.png)
 **Name**: **Ali Ait Mohamed**
    - **Birthday**: June 2, 1540
    - **Physical Attributes**:

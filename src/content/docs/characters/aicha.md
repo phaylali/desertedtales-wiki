@@ -5,7 +5,7 @@ type: character
 genre: female
 image: ../../images/image.png
 ---
-![[image.png]]
+![Aicha Bent Si Abdelkader](../../images/image.png)
 **Name**: Aicha Bent Abdelkader              
 **Gender**: Female  
 **Birthday**: Monday, 19 December, 1521  

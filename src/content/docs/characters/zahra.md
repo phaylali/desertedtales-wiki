@@ -5,7 +5,7 @@ type: character
 genre: female
 image: ../../images/image9.png
 ---
-![[image9.png]]
+![Lalla Zahra](../../images/image9.png)
 **Name**: Lalla Zahra bint Mohammed  
 **Gender**: Female  
 **Birthday**: June 14, 1489  

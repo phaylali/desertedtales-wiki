@@ -1,6 +1,8 @@
 ---
-title: Reference
+title: References
 description: A reference
+type: reference
+image:
 ---
 
 COMING SOON

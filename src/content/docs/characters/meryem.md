@@ -5,7 +5,7 @@ type: character
 genre: female
 image: ../../images/image11.png
 ---
-![[image11.png]]
+![Meryem Bent Si Abdelkader](../../images/image11.png)
 **Name**: Meryem bint Abdelkader  
 **Gender**: Female  
 **Birthday**: September 23, 1518  

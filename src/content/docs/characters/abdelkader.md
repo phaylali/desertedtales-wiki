@@ -5,7 +5,7 @@ type: character
 genre: male
 image: ../../images/image8.png
 ---
-![[image8.png]]
+![Si Abdelkader Ben Youssef](../../images/image8.png)
 **Name**: Si Abdelkader ibn Youssef  
 **Gender**: Male  
 **Birthday**: October 2, 1480  
