@@ -6,47 +6,49 @@ genre: male
 image: ../../images/image10.png
 ---
 ![Idir Ben Ziri](../../images/image10.png)
-**Name**: Idir Ait Ziri  
-**Gender**: Male  
-**Birthday**: March 5, 1519  
-**Occupation**: Warrior and Protector  
-**Origin**: Sous region, Morocco  
-**Fiancée**: Aicha bint Si Abdelkader  
-**Residence**: Mazagan (modern-day El Jadida), Morocco  
 
-**Physical Attributes**:  
-- **Height**: 182 cm  
-- **Weight**: 78 kg  
-- **Build**: Muscular and robust, with the strength and endurance of a seasoned warrior  
-- **Hair**: Dark, curly, and typically kept at a medium length  
-- **Eyes**: Intense and focused, with a determined and protective gaze  
-- **Skin**: Olive-toned, with scars from battles that add to his rugged appearance  
-- **Face**: Strong and angular features, with a resolute and determined expression  
-- **Clothing**: Usually dressed in traditional Amazigh warrior attire, including a cloak and protective armor, always carrying his weapons  
+Idir Ait Ziri, a proud Amazigh warrior from the Sous region of Morocco, resides in Mazagan (modern-day El Jadida), where he shares his life with his beloved fiancée, Aicha bint Si Abdelkader. Born on March 5, 1519, he is fiercely passionate about his people, family, and especially Aicha.
 
-**Personality Traits**:  
-- **Proud**: Deeply proud of his Amazigh heritage and culture, always striving to honor his roots  
-- **Loyal**: Fiercely loyal to his people, his family, and especially to Aicha, whom he admires greatly  
-- **Brave**: Possesses immense courage and fearlessness in the face of danger, always ready to protect and fight for his people  
-- **Protective**: Acts as a guardian for Aicha, always putting her safety and well-being first  
-- **Admiring**: Deeply respects and admires Aicha for her leadership, warrior spirit, and self-sacrifice  
-- **Devoted**: Willing to go to unimaginable lengths to protect Aicha, ready to do anything for her well-being out of romantic love and warrior companion admiration  
-- **Pushy**: At times can be overly protective and insistent on ensuring Aicha’s safety, though Aicha understands and appreciates his intentions  
+Idir's love for Aicha knows no bounds; he is utterly besotted with her, going to what seems like unreasonable lengths to ensure her safety and happiness. His devotion to her is unwavering, and he will stop at nothing to protect her from harm. This selfless behavior is deeply appreciated by Aicha herself, who loves him just as fiercely and admires his bravery, warrior spirit, and unyielding commitment to their people.
 
-**Role in the Resistance**:  
-Idir Ait Ziri is a key warrior and protector in the resistance. His physical prowess and combat skills make him a formidable force against their oppressors. He takes on the role of protector, especially for Aicha, ensuring her safety during battles and strategic missions. His knowledge of Amazigh culture and heritage also plays a significant role in inspiring and uniting the resistance fighters.
+As a protector of the resistance, Idir shows immense courage and fearlessness in the face of danger. His strong persona serves as a beacon of authority, keeping the other resistance warriors in check, as they are drawn to Aicha's stunning beauty. However, Idir's presence ensures that his comrades respect her boundaries and treat her with the dignity she deserves.
 
-**Contribution to Family and Resistance**:  
-As Aicha's fiancé, Idir is deeply integrated into her family and their resistance efforts. His bravery and warrior skills complement Aicha's leadership and strategic mind, making them a powerful duo in the fight for freedom. Idir’s protective nature ensures that Aicha can lead with confidence, knowing he always has her back.
+Aicha, however, is not one to be underestimated; she proves herself to be more than capable of protecting herself, and Idir has come to trust her instincts implicitly. While he would have concerns if she were to use herself as bait, he has faith in her abilities and knows that she can hold her own in the midst of danger.
 
-Idir's respect and admiration for Aicha's fierce warrior spirit and self-sacrifice drive him to support her in every possible way. He also acts as a cultural pillar, reminding the resistance fighters of their rich Amazigh heritage and the importance of their struggle.
+Idir's commitment to his people and culture is evident in his traditional Amazigh warrior attire and his strong connection to the land. He stands at 182 cm tall, weighing 78 kg with a muscular build, dark curly hair, intense focused eyes, olive-toned skin with scars from battles, and strong angular features on his face.
 
-**Background and Skills**:  
-Idir Ait Ziri was born and raised in the Sous region, where he developed a deep connection to his Amazigh roots. From a young age, he trained as a warrior, learning the skills and techniques that would later make him a key protector in the resistance. His upbringing instilled in him a strong sense of pride and duty towards his culture and people.
+As Aicha's trusted companion and defender, Idir is determined to ensure her safety and happiness in the midst of turmoil. His unwavering loyalty and bravery make him an indispensable part of the resistance, and together with Aicha, they form a formidable force against their common enemies.
 
-Idir's skills include expert hand-to-hand combat, mastery of traditional Amazigh weapons, and a strategic mind that complements his physical abilities. He is also well-versed in the terrain and geography of the Sous region, using this knowledge to aid in guerrilla warfare and tactical planning.
+## Key Info
 
-Idir Ait Ziri’s combination of pride, bravery, and loyalty makes him an indispensable part of the resistance and a devoted protector of Aicha bint Si Abdelkader. His willingness to go to any lengths to ensure her safety and well-being, out of both romantic love and admiration, solidifies his role as her most trusted companion and defender.
+-   Birthdate: March 5, 1519
+-   Residence: Mazagan (modern-day El Jadida), Morocco (shared with fiancée Aicha)
+-   Relationship status: Fiancé to Aicha bint Si Abdelkader
+-   Personality traits:
+    *    Fiercely passionate about his people and family
+    *    Utterly besotted with Aicha and willing to go to great lengths for her safety and happiness
+    *    Brave, fearless, and selfless in the face of danger
+    *    Strong persona that keeps other resistance warriors in check
+         
+-   Physical appearance:
+    *    Height: 182 cm
+    *    Weight: 78 kg
+    *    Build: Muscular
+    *    Hair: Dark curly
+    *    Eyes: Intense and focused
+    *    Skin tone: Olive-toned with scars from battles
+         
+-   Abilities and strengths:
+    *    Protector of the resistance
+    *    Unwavering loyalty and bravery
+    *    Trusts Aicha's instincts and abilities
+         
+-   Relationship dynamics with Aicha:
+    *    Deeply in love with her
+    *    Appreciates her capabilities and respects her boundaries
+    *    Faithful to his commitment to protect her
+         
+     
 
 ## Further reading
 

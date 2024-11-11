@@ -1,52 +1,27 @@
 ---
 title: Mohamed Ben Si Abdelkader
-description: A moroccan legendary resistance fighter
+description: A moroccan merchant
 type: character
 genre: male
 image: ../../images/image7.png
 ---
 ![Mohamed Ben Si Abdelkader](../../images/image7.png)
-**Name**: Mohammed ibn Abdelkader  
-**Gender**: Male  
-**Birthday**: January 3, 1512  
-**Occupation**: Merchant and Intelligence Gatherer  
-**Father**: Si Abdelkader ibn Youssef  
-**Mother**: Lalla Zahra bint Mohammed  
-**Siblings**: 
-  - Younger Brother: Youssef ibn Abdelkader (Born: April 15, 1515)
-  - Younger Sister: Meryem bint Abdelkader (Born: September 23, 1518)
-  - Younger Sister: Aicha bint Si Abdelkader (Born: December 19, 1521)
 
-**Romantic Interest**: (Name and details to be determined)  
-**Residence**: Mazagan (modern-day El Jadida), Morocco  
+Mohamed ben Si Abdelkader was born on January 3, 1512, in Mazagan (modern-day El Jadida), Morocco. He was the eldest son of Lalla Zahra and Si Abdelkader.
 
-**Physical Attributes**:  
-- **Height**: 175 cm  
-- **Weight**: 70 kg  
-- **Build**: Strong and agile, with the stamina of a seasoned traveler  
-- **Hair**: Dark and wavy, kept short for practicality  
-- **Eyes**: Keen and observant, with a thoughtful and strategic gaze  
-- **Skin**: Olive-toned, with a rugged texture from frequent travel  
-- **Face**: Chiseled features with a determined and resolute expression  
-- **Clothing**: Typically dressed in practical yet well-made garments suited for travel, often carrying a merchant’s satchel
+Physically, Mohamed stood at 175 cm tall with a lean yet athletic build, weighing approximately 80 kg. His dark hair often wore in a neatly trimmed beard that framed his sharp facial features. His bright hazel eyes sparkled with intelligence and curiosity, reflecting his keen mind and love for learning. He had a decently fit form, neither fat nor excessively muscular, but rather well-proportioned and toned from his active lifestyle.
 
-**Personality Traits**:  
-- **Resourceful**: Able to adapt to different situations and find solutions with limited resources  
-- **Charismatic**: Possesses a natural charm that aids in building relationships and gathering information  
-- **Strategic**: Highly intelligent and able to think several steps ahead, making him a valuable asset in intelligence gathering  
-- **Loyal**: Deeply committed to his family and their cause, willing to take significant risks for their success  
-- **Courageous**: Unafraid to venture into dangerous territories and situations for the sake of the resistance
+As the eldest child, Mohamed grew up surrounded by his siblings - Youssef, a talented craftsman; Meryem, a gifted teacher and historian; and Aicha, a spirited young woman with a passion for exploration and adventure. His mother, Lalla Zahra, took great pride in imparting her knowledge of cultural and social dynamics to him, which would later benefit him in his role as a merchant and intelligence gatherer.
 
-**Role in the Resistance**:  
-Mohammed plays a crucial role in the resistance as a merchant and intelligence gatherer. His trade routes and connections provide him with access to valuable information and resources that he channels back to the resistance. His charisma and strategic mind enable him to forge alliances and gather intelligence discreetly, contributing to the overall efforts of the resistance.
+Mohamed's life was marked by his intellectual curiosity and entrepreneurial spirit. He was well-versed in the art of trade, commerce, and diplomacy, skills that served him well in navigating the complexities of his time.
 
-**Contribution to Family and Resistance**:  
-As the eldest son, Mohammed shoulders significant responsibility in supporting the resistance and his family. His intelligence-gathering efforts provide crucial information for planning and strategy, enhancing the effectiveness of their resistance activities. He also uses his merchant connections to acquire supplies and resources that are vital for their cause.
+In 1538, Mohamed met Amani bint Elikia from the Kongo Kingdom while on a trade expedition to her homeland. Impressed by her sharp mind and commanding presence, Mohamed found himself drawn to Amani's intelligence, resilience, and mutual respect for each other's cultures. As they worked together in various business ventures, their professional relationship blossomed into a deep, mutual affection, ultimately leading to their marriage.
 
-Mohammed's resourcefulness and courage make him a key figure in the resistance network. He collaborates closely with his siblings, using his knowledge of trade and strategy to support Youssef's craftsmanship, Meryem's cultural advocacy, and Aicha's combat efforts. His insights and information are instrumental in guiding their actions and ensuring their safety.
+Mohamed's marriage to Amani from the Kongo Kingdom strengthened ties between their respective families and fostered greater understanding and cooperation between their cultures. Together, they had three children: Zoulaikha, a bright and curious child; Amina, a gentle soul with a deep love for nature and learning; and Ali, a spirited young boy with a passion for exploration.
 
-Mohammed ibn Abdelkader’s combination of resourcefulness, charisma, and strategic thinking makes him an indispensable asset to the resistance. His efforts in intelligence gathering and resource acquisition significantly contribute to their collective fight against oppression.
+As a father and husband, Mohamed was devoted to his family, often seeking guidance from his mother, Lalla Zahra, on matters of trade, diplomacy, and family. His relationship with his siblings remained close throughout his life, with each sibling contributing their unique skills and talents to the collective well-being of the family.
 
+Mohamed's legacy as a merchant, leader, and husband continues to inspire generations of his family, including his sister Aicha, who would go on to have her own remarkable journey.
 ## Further reading
 
 - Read More [Characters](/characters/)

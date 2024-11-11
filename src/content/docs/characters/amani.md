@@ -1,43 +1,25 @@
 ---
 title: Amani Bint Elikia
-description: a merchant from the Kongo Kingdom
+description: daughter of a merchant from the Kongo Kingdom
 type: character
 genre: female
 image: ../../images/image2.png
 ---
 ![Amani Bint Elikia](../../images/image2.png)
-**Name**: Amani Binti Elikia  
-**Birthday**: May 14, 1516   
-**Place of Birth**: Kongo Kingdom    
-
-**Father**: Elikia M'Bemba   
-
-Personality: Wise and Strategic - Elikia M'Bemba was a man of great intellect and foresight. He was known for his ability to see the bigger picture in any situation, making calculated decisions that ensured the prosperity of his family and their trade business. Despite his success, he remained humble and always prioritized the well-being of his family and community. He was a patient listener, earning him respect and trust among his peers and trading partners.   
-
-**Mother**: Mwene Nzinga   
-
-Personality: Graceful and Diplomatic - Mwene Nzinga possessed a natural elegance and poise, with a deep understanding of human nature. She was compassionate, with a strong sense of empathy that made her an excellent mediator in disputes. Her diplomatic skills were highly valued, and she had a talent for smoothing over conflicts and fostering positive relationships. Nzinga was also nurturing and protective, instilling in her children a strong sense of morality and cultural pride.  
-
-**Physical Attributes**:
-- **Height**: 165 cm
-- **Weight**: 60 kg
-- **Build**: Graceful and elegant, with a strong yet feminine physique.
-- **Hair**: Dark, coiled, often styled in intricate braids adorned with traditional beads.
-- **Eyes**: Deep brown, exuding confidence and warmth.
-- **Skin**: Rich, deep ebony tone, with a smooth and radiant complexion.
-- **Clothing**: Traditional Kongo attire, often including vibrant fabrics and intricate jewelry.
-
-**Personality Traits**:
-- **Charismatic**: A natural leader, able to inspire and influence those around her.
-- **Business-Savvy**: Sharp in negotiations and skilled in managing trade operations.
-- **Resilient**: Strong-willed and able to navigate the challenges of both the trade world and life under foreign influence.
-- **Culturally Proud**: Deeply connected to her Kongo heritage and traditions.
-
-**Background**:
-Amani Binti Elikia was born into a prominent merchant family in the Kongo Kingdom. Her father, a respected trader, taught her the intricacies of commerce from a young age. When he fell ill, Amani took over the management of the family’s business, quickly proving herself as a capable and shrewd businesswoman. She successfully navigated the complexities of trade routes and established strong ties with other African and North African merchants.
-
-**Meeting Mohamed**:
-In 1538, Mohamed encountered Amani while on a trade expedition to the Kongo Kingdom. He was impressed by her commanding presence and sharp mind as she expertly negotiated deals and managed her family’s business. Drawn to her intelligence, resilience, and the mutual respect they had for each other's cultures, Mohamed found himself visiting the Kongo Kingdom more frequently. Over time, their professional relationship blossomed into a deep, mutual affection, leading to their marriage.
 
 
+
+Amani m'Bemba was born on May 14, 1516, in the Kongo Kingdom. She stood at around 165 cm tall with a slender yet athletic build, weighing approximately 60 kg. Amani had a kind face with a warm smile and expressive brown eyes that sparkled with curiosity. Her long, dark hair cascaded down her back in loose waves, framing her heart-shaped face. Her African hair was a true marvel, with its rich texture and vibrant curls that seemed to spring to life whenever she moved. 
+
+Amani's skin was a beautiful shade of chocolate, smooth and radiant, a testament to the warmth and richness of her Kongo heritage. Her dark complexion glowed with an inner light, illuminating her features and making her all the more lovely. 
+
+She was the daughter of Mwene Nzinga, a strong and wise woman who had instilled in Amani the values of compassion, resilience, and determination that would serve her well throughout her life. Growing up surrounded by the sights and sounds of commerce, as her father, Elikia m'Bemba, was one of the most respected traders in the region. 
+
+As Elikia's health began to decline, Amani took on a crucial role within their family business, ensuring that it continued to operate smoothly until her father's recovery. 
+
+Amani met Mohamed ben Si Abdelkader, a young Moroccan merchant, in 1538, during one of his regular visits to her father's trading post. Their initial meeting sparked a deep connection, and they would often discuss trade agreements, negotiate prices for exotic goods, and share stories about their lives. As Amani managed the day-to-day affairs of the trading post, she and Mohamed grew closer, their friendship blossoming into a romance. 
+
+In 1540, Elikia m'Bemba finally recovered from his illness, and Amani decided to marry Mohamed and move with him to his homeland in Morocco, specifically to the city of Mazagan (now El Jadida). As they navigated their new life together, Amani continued to apply her skills and knowledge to help establish a thriving trade business. 
+
+The marriage brought great joy to Amani and Mohamed, and soon they welcomed three beautiful children: Ali, Zoulaikha, and Amina. Their family grew strong and loving, with Amani's warmth and Mohamed's guidance creating a harmonious home. As she adapted to her new life in Morocco, Amani found happiness in exploring the diverse culture and landscapes of the country with her husband. 
 

@@ -6,49 +6,20 @@ genre: female
 image: ../../images/image9.png
 ---
 ![Lalla Zahra](../../images/image9.png)
-**Name**: Lalla Zahra bint Mohammed  
-**Gender**: Female  
-**Birthday**: June 14, 1489  
-**Occupation**: Noblewoman and Cultural Advocate  
-**Father**: Mohammed, a noble tribe leader in the Sous region  
-**Husband**: Si Abdelkader ibn Youssef  
-**Children**: 
-  - Mohammed ibn Abdelkader (Born: January 3, 1512)
-  - Youssef ibn Abdelkader (Born: April 15, 1515)
-  - Meryem bint Abdelkader (Born: September 23, 1518)
-  - Aicha bint Si Abdelkader (Born: December 19, 1521)
 
-**Residence**: Mazagan (modern-day El Jadida), Morocco  
+Lalla Zahra, a revered woman from Morocco, was born on February 15, 1505, in the Sous region, a place known for its rich cultural heritage. However, she spent most of her life in Mazagan (modern-day El Jadida), where she grew up surrounded by the values of honor, loyalty, and compassion instilled in her by her family.
 
-**Physical Attributes**:  
-- **Height**: 162 cm  
-- **Weight**: 55 kg  
-- **Build**: Graceful and elegant, with a commanding presence  
-- **Hair**: Long, dark, and lustrous, often worn in intricate styles befitting her noble status  
-- **Eyes**: Deep and expressive, with a nurturing and wise gaze  
-- **Skin**: Smooth and fair, with a natural radiance  
-- **Face**: Soft and serene, with gentle features and a warm smile  
-- **Clothing**: Typically dressed in luxurious, traditional garments, adorned with fine embroidery and jewelry that reflect her noble heritage
+As the daughter of El Mahdi, a respected leader of their tribe and one of the nobles of the region, Lalla Zahra's upbringing was marked by a deep understanding of social dynamics and cultural nuances. Growing to an impressive height of 165 cm, with a sturdy build and weighing around 60 kg, she possessed a strong yet gentle presence that commanded respect from all who knew her. Her dark hair was often styled in a traditional manner, adorned with intricate braids and adornments that reflected her cultural heritage.
 
-**Personality Traits**:  
-- **Nurturing**: Deeply caring and supportive, devoted to the well-being of her family and community  
-- **Wise**: Possesses a profound understanding of cultural traditions and history, often sharing her knowledge to inspire and educate  
-- **Resilient**: Demonstrates great strength and composure, even in the face of adversity  
-- **Diplomatic**: Skilled in negotiation and maintaining harmonious relationships, both within the family and the community  
-- **Cultural Advocate**: Passionate about preserving and promoting the cultural heritage of her people, actively involved in community events and education
+As the wife of Si Abdelkader and mother of four children - Mohammed, Youssef, Meryem, and Aicha - Lalla Zahra is a pillar of strength within her family. She embodies the qualities of wisdom, resilience, and compassion, which have earned her great respect from her loved ones. Her eldest son, Mohammed, benefits greatly from her insights into cultural and social dynamics, allowing him to excel in his role as a merchant and intelligence gatherer. Youssef, her craftsman son, receives knowledge of traditional techniques and herbal remedies that enhance his work, while Meryem, the teacher and historian, is inspired by her mother's dedication to cultural preservation. Aicha, the warrior, draws strength from her mother's resilience and wisdom.
 
-**Role in the Resistance**:  
-Lalla Zahra plays a vital role in the resistance through her cultural and diplomatic efforts. Her deep knowledge of local traditions and history allows her to preserve and promote the cultural identity of her people, strengthening their resolve and unity in the face of oppression. She organizes and participates in community gatherings, fostering a sense of solidarity and cultural pride.
+Lalla Zahra's personality shines through in the way she nurtures her children and grandchildren. Her gentle touch, soothing voice, and unwavering optimism inspire confidence and reassurance, creating a sense of safety that allows them to grow and thrive. As the grandmother of Amina, Zoulaikha, and Ali (children of Mohammed), Lalla Zahra delights in sharing stories of her own childhood, passing down valuable lessons and traditions that have been passed down through generations.
 
-Zahra's diplomatic skills are crucial in maintaining alliances and securing support for the resistance. Her ability to negotiate and mediate disputes ensures that the resistance remains cohesive and focused on their common goal. Her nurturing nature provides emotional support and guidance to her family, helping them stay resilient and determined.
+When Mohammed and his wife Amani, who hails from the Kongo Kingdom, would travel to their home country for business, Lalla Zahra would take on the role of devoted caregiver to their children. She would lovingly care for them, regaling them with tales of adventure, sharing wisdom gained from her own life experiences, and creating a sense of stability amidst the uncertainty.
 
-**Contribution to Family and Resistance**:  
-Lalla Zahra is the heart of her family's resistance activities. Her wisdom and nurturing spirit guide and support her husband and children in their various roles within the resistance. She instills in them a deep appreciation for their cultural heritage and a strong sense of duty to their people.
+Lalla Zahra's influence extends beyond her immediate family. Her father, El Mahdi, instilled in her the importance of community service, social responsibility, and compassion. She has carried this legacy forward, becoming an exemplary role model for her children and grandchildren. As they grow into capable leaders, Lalla Zahra's guidance continues to inspire them, shaping their values and character.
 
-Her eldest son, Mohammed, benefits from her insights into cultural and social dynamics, aiding him in his role as a merchant and intelligence gatherer. Youssef, her craftsman son, receives knowledge of traditional techniques and herbal remedies, enhancing his work. Meryem, the teacher and historian, is inspired by her mother’s dedication to cultural preservation. Aicha, the warrior, draws strength from her mother’s resilience and wisdom.
-
-Lalla Zahra bint Mohammed’s combination of nurturing care, cultural advocacy, and diplomatic skill makes her an indispensable figure in the resistance, ensuring the preservation and celebration of their heritage while supporting the family’s collective efforts against oppression.
-
+Throughout her life, Lalla Zahra remains a beacon of hope and resilience, inspiring those around her with her unwavering optimism, kindness, and generosity. Her story is a testament to the enduring power of love, family, and community.
 ## Further reading
 
 - Read More [Characters](/characters/)

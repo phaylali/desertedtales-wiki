@@ -1,52 +1,33 @@
 ---
 title: Meryem Bent Si Abdelkader
-description: A moroccan legendary resistance fighter
+description: a teacher and history scholar
 type: character
 genre: female
 image: ../../images/image11.png
 ---
 ![Meryem Bent Si Abdelkader](../../images/image11.png)
-**Name**: Meryem bint Abdelkader  
-**Gender**: Female  
-**Birthday**: September 23, 1518  
-**Occupation**: Teacher and Cultural Historian  
-**Father**: Si Abdelkader ibn Youssef  
-**Mother**: Lalla Zahra bint Mohammed  
-**Siblings**: 
-  - Elder Brother: Mohammed ibn Abdelkader (Born: January 3, 1512)
-  - Elder Brother: Youssef ibn Abdelkader (Born: April 15, 1515)
-  - Younger Sister: Aicha Qandicha (Born: December 19, 1521)
 
-**Romantic Interest**: (Name and details to be determined)  
-**Residence**: Mazagan (modern-day El Jadida), Morocco  
+Meryem was born on September 23, 1518, in Mazagan (modern-day El Jadida), Morocco. She is one of the siblings of Mohamed, who is the eldest child of Lalla Zahra and Si Abdelkader. 
 
-**Physical Attributes**:  
-- **Height**: 165 cm  
-- **Weight**: 58 kg  
-- **Build**: Slender and graceful, with a dignified and scholarly presence  
-- **Hair**: Long, dark, and often tied in a neat braid or bun  
-- **Eyes**: Warm and intelligent, with a gentle yet determined gaze  
-- **Skin**: Fair and smooth, with a radiant glow reflecting her inner strength and compassion  
-- **Face**: Gentle and polished, with softly rounded features and a warm expression. 
-- **Clothing**: Often seen in modest, traditional attire, with simple yet elegant patterns and a headscarf; carries books and writing materials
+Physically, Meryem stood at 160 cm tall with a slender build, weighing approximately 60 kg. Her dark hair was often worn in intricate braids, framing her sharp facial features. Her bright brown eyes sparkled with knowledge and wisdom, reflecting her exceptional skills as a teacher and historian. 
 
-**Personality Traits**:  
-- **Educated**: Highly knowledgeable in history, culture, and literature, dedicated to preserving and teaching Morocco's rich heritage  
-- **Compassionate**: Deeply cares for her community and students, offering guidance and support to those in need  
-- **Resilient**: Possesses a strong spirit and unwavering determination to resist cultural erasure and oppression  
-- **Articulate**: An excellent communicator, able to inspire and educate others through her words and writings  
-- **Cultural Advocate**: Passionate about maintaining and celebrating Moroccan traditions and identity  
-- **Radiant with Joy**: Full of life, always smiling, and loves to make people smile, bringing light and happiness to those around her
+Meryem's love for learning began at a young age. She spent hours poring over ancient texts, studying the properties of various plants, metals, and other substances. She was particularly fascinated by the works of ancient civilizations, and spent many years studying the art of metallurgy, herbology, and engineering. 
 
-**Role in the Resistance**:  
-Meryem plays a crucial role in the resistance through her cultural and educational efforts. As a teacher and historian, she educates the children and community about the rich history and heritage of Morocco, instilling a sense of pride and resilience. She writes books and pamphlets that document their traditions and resist cultural erasure, ensuring that their identity is preserved for future generations.
+However, Meryem's true passion lay in sharing her knowledge with others, especially the children of Mazagan. As a respected teacher and historian, she dedicated herself to educating the young people of the city about their rich history and culture. She believed that it was essential for them to understand their heritage, so they wouldn't forget who they were and where they came from. 
 
-Meryem's work is not limited to the classroom; she organizes community gatherings and cultural events that strengthen the community's spirit and unity. Her efforts provide the resistance with a cultural foundation, fostering a sense of belonging and purpose among the people.
+In an effort to combat the Portuguese propaganda that had been spreading false information about the people of Mazagan, Meryem worked tirelessly to teach children about their own history and traditions. She would often take groups of students on walks through the city, pointing out ancient landmarks and sharing stories about the great leaders who had once ruled over their land. 
 
-Meryem bint Abdelkader's combination of intelligence, compassion, cultural dedication, and radiant joy makes her a vital figure in the resistance, contributing significantly to their cause by preserving and promoting their heritage. Her role complements the varied contributions of her siblings and adds depth to the family's collective resistance against oppression.
+Meryem's lessons were not just informative, but also inspiring. She instilled in her students a sense of pride and identity that would stay with them for the rest of their lives. Her teaching style was engaging, and she made complex historical concepts accessible to even the youngest learners. 
 
-Meryem is also incredibly helpful to her brother Youssef in his work as a craftsman. With her extensive knowledge of history and literature, she provides references and knowledge that assist him in creating more effective tools, weapons, and potions for the resistance. Her insights into ancient techniques and herbal remedies greatly enhance Youssef's craftsmanship, making their combined efforts even more impactful in the fight against oppression.
+Her expertise lay in understanding the tactics and strategies employed by their ancestors and ancient civilizations in combating foreign threats and colonizers. She had spent years studying the legends of Islamic golden eras, such as Tariq Ibn Ziyad and Khalid bin al-Walid, who had successfully defended their territories against invaders. 
 
+Meryem also drew upon her knowledge of Amazigh and Arab leaders who had fought bravely against foreign occupation. Her insights into the strategies employed by these legendary leaders were crucial in informing Aicha's decision-making process as she led the resistance movement. 
+
+As Aicha sought to mobilize support for their cause, Meryem provided invaluable guidance on how to employ tactics that had proven effective in the past. She drew upon her vast knowledge of history to help Aicha understand the importance of unity, strategic planning, and perseverance in the face of adversity. 
+
+Through Meryem's contributions, the resistance movement was able to tap into a rich vein of historical knowledge that had been passed down through generations. Her expertise helped inform Aicha's leadership, allowing them to make more informed decisions and ultimately achieve their goals. 
+
+Meryem's legacy is one of wisdom, compassion, and unwavering dedication to the cause. She played a crucial role in preserving the history and culture of Mazagan, combating the Portuguese propaganda that sought to erase the identity of its people. Her teaching style was inspiring, and her contributions will continue to be felt for generations to come. 
 ## Further reading
 
 - Read More [Characters](/characters/)

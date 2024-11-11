@@ -1,51 +1,23 @@
 ---
 title: Si Abdelkader Ben Youssef
-description: A moroccan legendary resistance fighter
+description: A moroccan legendary resistance leader
 type: character
 genre: male
 image: ../../images/image8.png
 ---
 ![Si Abdelkader Ben Youssef](../../images/image8.png)
-**Name**: Si Abdelkader ibn Youssef  
-**Gender**: Male  
-**Birthday**: October 2, 1480  
-**Occupation**: Noble Resistance Leader and Strategist  
-**Origin**: Granada, Andalusia  
-**Wife**: Lalla Zahra bint Mohammed  
-**Children**: 
-  - Mohammed ibn Abdelkader (Born: January 3, 1512)
-  - Youssef ibn Abdelkader (Born: April 15, 1515)
-  - Meryem bint Abdelkader (Born: September 23, 1518)
-  - Aicha bint Si Abdelkader (Born: December 19, 1521)
 
-**Residence**: Mazagan (modern-day El Jadida), Morocco  
+Si Abdelkader was born on October 2, 1480 (Ramadan 879 AH) in the majestic city of Alhambra, during the golden age of Andalucia. He stood at a height of 178 cm and weighed around 70 kg. His physical appearance was that of a tall, slender man with a strong jawline, piercing brown eyes, and a distinctive mole on his left cheek. 
 
-**Physical Attributes**:  
-- **Height**: 178 cm  
-- **Weight**: 72 kg  
-- **Build**: Lean and wiry, with the endurance of a seasoned warrior  
-- **Hair**: Dark, streaked with grey, usually kept short and tidy  
-- **Eyes**: Sharp and piercing, with a deep, thoughtful gaze  
-- **Skin**: Olive-toned, weathered from years of battle and leadership  
-- **Face**: Strong and angular, with a prominent jawline and high cheekbones  
-- **Clothing**: Typically dressed in traditional noble attire, including a tunic, trousers, and a cloak; often seen wearing armor and carrying a sword during times of conflict
+Si Abdelkader was known for his charismatic personality, possessing a unique blend of intelligence, wisdom, and humility. He was an empathetic listener, with a calm and composed demeanor that put those around him at ease. His warm smile could light up even the most somber of occasions, making him a beloved figure among his community. 
 
-**Personality Traits**:  
-- **Strategic Mind**: Highly intelligent and tactical, known for his ability to plan and execute complex strategies  
-- **Resilient**: Possesses an unbreakable spirit and determination to fight for his people’s freedom and rights  
-- **Wise**: Holds deep knowledge of history, culture, and warfare, often serving as a mentor and advisor  
-- **Loyal**: Fiercely devoted to his family and his cause, willing to make great sacrifices for their safety and success  
-- **Charismatic Leader**: Able to inspire and rally others, earning respect and loyalty from those around him  
+As a scholar from Granada's intellectual haven, Si Abdelkader possessed an encyclopedic understanding of geopolitics, history, philosophy, mathematics, and astronomy. His strategic mind allowed him to navigate complex situations with ease, making him a sought-after advisor among his peers. Growing up in the vibrant city of Granada, he had been exposed to a rich tapestry of intellectual pursuits, and was well-versed in the works of Arab scholars such as Ibn Sina (Avicenna) and Ibn Rushd (Averroes), who had contributed significantly to the fields of medicine, philosophy, and astronomy. 
 
-**Role in the Resistance**:  
-Si Abdelkader ibn Youssef plays a central role in the resistance against oppression. As a noble resistance leader and strategist, he guides the resistance efforts with wisdom and experience. His background in Granada and subsequent escape to Morocco imbued him with a profound understanding of both cultures and the geopolitical landscape.
+After the Spanish king broke his promise under the Treaty of Granada, which guaranteed the protection of the rights of worship and faith for Muslims and Jews in Andalucia, Si Abdelkader was forced to flee Granada. The Christian king's refusal to honor this treaty led to widespread persecution of Muslims and Jews, forcing many of them to leave their homes and livelihoods behind. Si Abdelkader fled due to the threats against his life and livelihood. He traveled through North Africa, eventually arriving in the Sous region, where he met his wife Lalla Zahra. Their union marked the beginning of a new chapter in their lives. 
 
-Having settled in the Sous region after fleeing Granada, Abdelkader quickly gained the respect of the local tribes, including his future wife’s noble family. His strategic acumen and unyielding resolve made him an invaluable leader, coordinating resistance efforts and devising plans to undermine their oppressors.
+The couple eventually settled in Mazagan (modern-day El Jadida), where they built a happy home. As a devoted husband and father, Si Abdelkader worked tirelessly to provide for his family. He became a respected member of the community in Mazagan, where he was admired for his wisdom, compassion, and generosity. The family's home became a haven for those seeking guidance and solace. His union with Lalla Zahra produced four beautiful children: Aicha, Meryem, Mohamed, and Youssef. 
 
-**Contribution to Family and Resistance**:  
-Si Abdelkader is the bedrock of his family’s resistance activities. His leadership and strategic thinking guide the efforts of his children: Mohammed, the merchant and intelligence gatherer; Youssef, the craftsman of weapons and tools; Meryem, the cultural historian and teacher; and Aicha, the fierce warrior. His wisdom and courage inspire them to contribute to the resistance in their unique ways.
-
-Si Abdelkader ibn Youssef’s blend of intellect, resilience, and unwavering dedication make him a formidable leader in the resistance, shaping the legacy and contributions of his family in the fight for freedom.
+Si Abdelkader left behind a lasting legacy as a devoted husband, father, and member of his community. His story serves as a testament to the resilience of the human spirit, even in the face of adversity. He demonstrated that with courage, determination, and faith, one can overcome any obstacle and build a new life. 
 
 ## Further reading
 

@@ -6,41 +6,22 @@ genre: male
 image: ../../images/image6.png
 ---
 ![Youssef Ben Si Abdelkader](../../images/image6.png)
-**Name**: Youssef Ben Abdelkader  
-**Gender**: Male  
-**Birthday**: Thursday, 15 April, 1515  
-**Occupation**: Craftsman and Artisan  
-**Father**: Si Abdelkader ibn Youssef  
-**Mother**: Lalla Zahra bint Mohammed  
-**Siblings**: 
-  - Elder Brother: Mohammed ibn Abdelkader (Born: January 3, 1512)
-  - Elder Sister: Fatima bint Abdelkader (Born: September 23, 1518)
-  - Younger Sister: Aicha Qandicha (Born: December 19, 1521)
 
-**Romantic Interest**: (Name and details to be determined)  
-**Residence**: Mazagan (modern-day El Jadida), Morocco  
+Youssef was born on March 12, 1515, in Mazagan (modern-day El Jadida), Morocco. He was the second son of Lalla Zahra and Si Abdelkader. 
 
-**Physical Attributes**:  
-- **Height**: 182 cm  
-- **Weight**: 75 kg  
-- **Build**: Lean and strong, with the steady hands and precision of a skilled craftsman  
-- **Hair**: Dark and thick, often kept short or tied back for practicality  
-- **Eyes**: Dark and thoughtful, with a sharp and observant gaze  
-- **Skin**: Olive-toned, with a rugged appearance from working with tools and materials  
-- **Face**: Defined and angular, with a square jawline and prominent cheekbones  
-- **Clothing**: Typically dressed in simple, practical clothing suited for a craftsman, including a tunic and trousers, with a leather apron and tools
+Physically, Youssef stood at 170 cm tall with a lean build, weighing approximately 75 kg. His dark hair was often worn neatly trimmed, framing his sharp facial features. His bright brown eyes sparkled with creativity and ingenuity, reflecting his exceptional skills as a craftsman. 
 
-**Personality Traits**:  
-- **Resourceful**: Highly inventive and able to create tools, weapons, and traps from limited materials  
-- **Quiet Strength**: Possesses a calm and steady demeanor, offering support and solutions without seeking attention  
-- **Loyal**: Deeply devoted to his family and their cause, willing to use his skills for the greater good  
-- **Meticulous**: Pays great attention to detail in his work, ensuring that everything he creates is of the highest quality  
-- **Supportive**: Always ready to lend a hand or provide practical assistance, enhancing the efforts of the resistance  
+As the second child, Youssef grew up surrounded by his siblings - Mohamed, a keen merchant and leader; Aicha, a spirited young woman who would later become the leader of underground resistance forces; and Meryem, a gifted teacher and historian. His mother, Lalla Zahra, took great pride in nurturing his creative talents from an early age. 
 
-**Role in the Resistance**:  
-Youssef plays a crucial but indirect role in the resistance. As a skilled craftsman, he creates the tools, weapons, and traps that the guerilla fighters use in their operations. His expertise in crafting daggers, poison, herbal remedies, and intricate traps makes him an invaluable asset to the resistance, providing them with the means to fight back against their oppressors. His work is often done in secret, using his knowledge of metallurgy, herbology, and engineering to give the resistance an edge.
+Meryem's influence on Youssef was significant, as she shared her vast knowledge of ancient civilizations with him. She taught him about the properties of various plants, metals, and other substances that could be used to create potent remedies or craft deadly traps. However, it was Aicha who became the linchpin between Meryem's knowledge and Youssef's skills. 
 
-Youssef ibn Abdelkader's combination of practical skills, resourcefulness, and quiet determination makes him a vital support figure in the resistance, contributing significantly to their efforts while maintaining a low profile. His role complements the varied contributions of his siblings and adds depth to the family's collective resistance against oppression.
+Aicha, as the leader of underground resistance forces, recognized the value of having skilled craftsmen like Youssef on her side. She would often bring him information about the materials he needed to create his tools and creations, which Mohamed would procure through his extensive commerce network. Mohamed, with his connections in other parts of Africa, was able to acquire rare metals, woods, and other materials that were essential for Youssef's craft. 
+
+Youssef, meanwhile, worked tirelessly to develop his skills as a master craftsman. He used Meryem's knowledge to create tools and creations that would aid the resistance forces in their fight against their oppressors. His expertise in metallurgy, herbology, and engineering enabled him to design daggers for stealth and precision, poison and herbal remedies for close combat, and intricate traps for taking down opponents silently. 
+
+As a master craftsman, Youssef's work was often done in secret, as he carefully balanced his life as an artisan with his involvement in the resistance. His contributions were invaluable, providing the means for the guerilla fighters to fight back against their oppressors. Aicha would coordinate with Youssef to ensure that his creations reached the right hands at the right time, while Mohamed's commerce network continued to supply them with the materials they needed. 
+
+In this way, Youssef played a crucial role in the resistance movement, using his skills as a craftsman to create tools and creations that would aid the fighters on the ground. His work was a testament to the power of collaboration and cooperation between individuals from different backgrounds and skill sets, all working together towards a common goal. 
 
 ## Further reading
 
