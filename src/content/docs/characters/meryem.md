@@ -7,7 +7,7 @@ image: ../../images/image11.png
 ---
 ![Meryem Bent Si Abdelkader](../../images/image11.png)
 
-Meryem was born on September 23, 1518, in Mazagan (modern-day El Jadida), Morocco. She is one of the siblings of Mohamed, who is the eldest child of Lalla Zahra and Si Abdelkader. 
+Meryem was born on September 23, 1529, in Mazagan (modern-day El Jadida), Morocco. She is one of the siblings of Mohamed, who is the eldest child of Lalla Zahra and Si Abdelkader. 
 
 Physically, Meryem stood at 160 cm tall with a slender build, weighing approximately 60 kg. Her dark hair was often worn in intricate braids, framing her sharp facial features. Her bright brown eyes sparkled with knowledge and wisdom, reflecting her exceptional skills as a teacher and historian. 
 
