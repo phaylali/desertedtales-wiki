@@ -7,7 +7,7 @@ image: ../../images/image.png
 ---
 ![Aicha Bent Si Abdelkader](../../images/image.png)
 
-Aicha Bent Abdelkader was born on December 19, 1521, in the vibrant city of Mazagan, Morocco. At 170 cm tall and weighing 59 kg, she had a slender yet athletic build that belied her strength and resilience. 
+Aicha Bent Abdelkader was born on April 11th, 1534, equivalent to 27th of ramadan 940 in the vibrant city of Mazagan, Morocco. At 170 cm tall and weighing 59 kg, she had a slender yet athletic build that belied her strength and resilience. 
 
 From a young age, Aicha demonstrated a spirit of strength and determination that would serve her well as she grew into a courageous and determined warrior. 
 
