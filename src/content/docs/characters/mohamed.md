@@ -7,7 +7,7 @@ image: ../../images/image7.png
 ---
 ![Mohamed Ben Si Abdelkader](../../images/image7.png)
 
-Mohamed ben Si Abdelkader was born on January 3, 1512, in Mazagan (modern-day El Jadida), Morocco. He was the eldest son of Lalla Zahra and Si Abdelkader.
+Mohamed ben Si Abdelkader was born on January 3, 1514, in Mazagan (modern-day El Jadida), Morocco. He was the eldest son of Lalla Zahra and Si Abdelkader.
 
 Physically, Mohamed stood at 175 cm tall with a lean yet athletic build, weighing approximately 80 kg. His dark hair often wore in a neatly trimmed beard that framed his sharp facial features. His bright hazel eyes sparkled with intelligence and curiosity, reflecting his keen mind and love for learning. He had a decently fit form, neither fat nor excessively muscular, but rather well-proportioned and toned from his active lifestyle.
 
