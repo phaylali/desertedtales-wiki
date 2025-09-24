@@ -7,7 +7,7 @@ image: ../../images/image9.png
 ---
 ![Lalla Zahra](../../images/image9.png)
 
-Lalla Zahra, a revered woman from Morocco, was born on February 15, 1505, in the Sous region, a place known for its rich cultural heritage. However, she spent most of her life in Mazagan (modern-day El Jadida), where she grew up surrounded by the values of honor, loyalty, and compassion instilled in her by her family.
+Lalla Zahra, a revered woman from Morocco, was born on February 15, 1495, in the Sous region, a place known for its rich cultural heritage. However, she spent most of her life in Mazagan (modern-day El Jadida), where she grew up surrounded by the values of honor, loyalty, and compassion instilled in her by her family.
 
 As the daughter of El Mahdi, a respected leader of their tribe and one of the nobles of the region, Lalla Zahra's upbringing was marked by a deep understanding of social dynamics and cultural nuances. Growing to an impressive height of 165 cm, with a sturdy build and weighing around 60 kg, she possessed a strong yet gentle presence that commanded respect from all who knew her. Her dark hair was often styled in a traditional manner, adorned with intricate braids and adornments that reflected her cultural heritage.
 
