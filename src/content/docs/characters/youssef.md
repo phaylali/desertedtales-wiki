@@ -7,7 +7,7 @@ image: ../../images/image6.png
 ---
 ![Youssef Ben Si Abdelkader](../../images/image6.png)
 
-Youssef was born on March 12, 1515, in Mazagan (modern-day El Jadida), Morocco. He was the second son of Lalla Zahra and Si Abdelkader. 
+Youssef was born on March 12, 1520, in Mazagan (modern-day El Jadida), Morocco. He was the second son of Lalla Zahra and Si Abdelkader. 
 
 Physically, Youssef stood at 170 cm tall with a lean build, weighing approximately 75 kg. His dark hair was often worn neatly trimmed, framing his sharp facial features. His bright brown eyes sparkled with creativity and ingenuity, reflecting his exceptional skills as a craftsman. 
 
