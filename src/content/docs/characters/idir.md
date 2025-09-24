@@ -7,7 +7,7 @@ image: ../../images/image10.png
 ---
 ![Idir Ben Ziri](../../images/image10.png)
 
-Idir Ait Ziri, a proud Amazigh warrior from the Sous region of Morocco, resides in Mazagan (modern-day El Jadida), where he shares his life with his beloved fiancée, Aicha bint Si Abdelkader. Born on March 5, 1519, he is fiercely passionate about his people, family, and especially Aicha.
+Idir Ait Ziri, a proud Amazigh warrior from the Sous region of Morocco, resides in Mazagan (modern-day El Jadida), where he shares his life with his beloved fiancée, Aicha bint Si Abdelkader. Born on March 5, 1526, he is fiercely passionate about his people, family, and especially Aicha.
 
 Idir's love for Aicha knows no bounds; he is utterly besotted with her, going to what seems like unreasonable lengths to ensure her safety and happiness. His devotion to her is unwavering, and he will stop at nothing to protect her from harm. This selfless behavior is deeply appreciated by Aicha herself, who loves him just as fiercely and admires his bravery, warrior spirit, and unyielding commitment to their people.
 
